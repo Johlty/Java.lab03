@@ -1,6 +1,6 @@
 package Entity;
 
-public enum StorageType {
+public  enum  StorageType {
     PIECE,
     KILOGRAM
 }
