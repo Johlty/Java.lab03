@@ -1,0 +1,8 @@
+2023/11/16 21:37:50
+Potato (VEGETABLES) 
+ Price per kg: 18.0
+ Weight: 11.0
+Bag (BAG) 
+Price per one: 2.5
+ Count: 1
+ Total paid: 200.5

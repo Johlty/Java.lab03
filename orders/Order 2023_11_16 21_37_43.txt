@@ -1,0 +1,15 @@
+2023/11/16 21:37:43
+Potato (VEGETABLES) 
+ Price per kg: 18.0
+ Weight: 10.0
+Meat (MEAT) 
+ Price per kg: 18.0
+ Weight: 5.0
+Coffee (COFFEE_TEA) 
+Price per one: 235.0
+ Count: 1
+Bag (BAG) 
+Price per one: 2.5
+ Count: 1
+ Total paid: 507.5
+Don't forget to keep the Meat in the refrigerator
